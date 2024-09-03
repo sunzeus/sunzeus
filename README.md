@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have over 7+ years of experience in Full stack development and IT consult.
+I have over 6+ years of experience in Full stack and Blockchain development.
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a
 broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and
